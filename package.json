@@ -1,5 +1,6 @@
 {
   "name": "client",
+  "homepage": "https://byrondolan.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +9,7 @@
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.4.1",
     "hookrouter": "^1.2.3",
+    "jquery": "^3.4.1",
     "react": "^16.13.1",
     "react-datepicker": "^2.14.1",
     "react-dom": "^16.13.1",
